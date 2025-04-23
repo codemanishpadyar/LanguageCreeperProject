@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "186794938284",
+    "firebase_url": "https://language-creeper-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "language-creeper",
+    "storage_bucket": "language-creeper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186794938284:android:ec5ea61c8aa4662b83b409",
+        "android_client_info": {
+          "package_name": "com.example.firstproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGRqPfBrpnPMJL8zjz-_hXVe3wUJB90s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186794938284:android:38f8dc86823ae1f183b409",
+        "android_client_info": {
+          "package_name": "com.example.mymodule1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGRqPfBrpnPMJL8zjz-_hXVe3wUJB90s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
